@@ -1,0 +1,20 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F0FF"/><stop offset=".5" stop-color="#B84DFF"/><stop offset="1" stop-color="#00F0FF"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-50%" width="160%" height="200%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#00F0FF" stroke-opacity=".12"/></pattern>
+  </defs>
+  <rect width="1200" height="260" rx="12" fill="#070A12"/>
+  <rect width="1200" height="260" rx="12" fill="url(#grid)"/>
+  <path d="M0 18H480L510 0H1200M0 242H710L740 260H1200" stroke="url(#edge)" stroke-width="2" filter="url(#glow)"/>
+  <path d="M42 76H290M42 190H610" stroke="#00F0FF" stroke-opacity=".55" stroke-width="2"><animate attributeName="stroke-opacity" values=".18;.9;.18" dur="2.8s" repeatCount="indefinite"/></path>
+  <circle cx="42" cy="76" r="5" fill="#00F0FF" filter="url(#glow)"><animate attributeName="cx" values="42;290;42" dur="3.2s" repeatCount="indefinite"/></circle>
+  <text x="42" y="52" fill="#00F0FF" font-family="monospace" font-size="15" letter-spacing="5">PROFILE // ONLINE</text>
+  <text x="42" y="132" fill="#F5F7FF" font-family="monospace" font-size="46" font-weight="700" letter-spacing="-2">LUCAS PETROCINI</text>
+  <text x="44" y="164" fill="#B84DFF" font-family="monospace" font-size="19" letter-spacing="4">FULL STACK DEVELOPER</text>
+  <g fill="#00F0FF" font-family="monospace" font-size="14"><text x="840" y="89">[ PHP / LARAVEL ]</text><text x="840" y="120">[ REACT / NODE ]</text><text x="840" y="151">[ GCP / CLOUD ]</text><text x="840" y="182">[ KOTLIN / ANDROID ]</text></g>
+  <rect x="810" y="67" width="350" height="136" rx="5" stroke="#00F0FF" stroke-opacity=".55"/>
+  <path d="M808 67h22M808 67v22M1162 67h-22M1162 67v22M808 203h22M808 203v-22M1162 203h-22M1162 203v-22" stroke="#B84DFF" stroke-width="3"/>
+</svg>
