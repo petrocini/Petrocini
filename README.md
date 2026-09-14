@@ -1,40 +1,25 @@
-<div align="center">
+## Olá, eu sou Lucas Petrocini 👋
 
-<img src="./assets/neon-profile.svg" alt="Lucas Petrocini — Full Stack Developer" width="100%" />
+Desenvolvedor Full Stack, trabalhando com aplicações web, sistemas e integrações.
 
-<a href="https://www.linkedin.com/in/lucas-petrocini-57843321b"><img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=070A12" alt="LinkedIn" /></a>
-<a href="https://github.com/petrocini/portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-B84DFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+### Stacks
 
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" height="42" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" height="42" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" height="42" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="42" height="42" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="42" height="42" alt="Android" />
+</p>
 
-```text
-STATUS: ONLINE
-FOCO: produtos web · integrações · sistemas internos · automações
-```
+### Contato
 
-## // EXPERIÊNCIA
-
-| AGORA | HISTÓRICO |
-| --- | --- |
-| **Spun Mídia** · PHP/Laravel, GAM, GCP, Python e JavaScript | **Codebit** · microsserviços, Cloud Run, Redis e BigQuery<br><br>**Usina Jussara** · sistemas de produção, RFID, offline-first e Kotlin |
-
-## // STACK
-
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=00F0FF)
-![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=B84DFF)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=B84DFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=00F0FF)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=B84DFF)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=00F0FF)
-![Kotlin](https://img.shields.io/badge/Kotlin-111827?style=for-the-badge&logo=kotlin&logoColor=B84DFF)
-
-</div>
-
-<div align="center">
-
-<sub>São Paulo, Brasil · <a href="https://github.com/petrocini?tab=repositories">repositórios</a> · <a href="https://github.com/petrocini/portfolio">portfólio</a></sub>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-petrocini-57843321b)
+[![E--mail](https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucaspetrocinireis@gmail.com)
